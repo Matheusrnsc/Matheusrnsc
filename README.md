@@ -14,5 +14,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrnsc&hide_progress=true)
 
-Tive meu primeiro contato com o mundo da programação durante minha graduação em Engenharia Ambiental na Universiaded de Brasília. Voltei a estudar no segundo semestre de 2022 para me aprimorar. De lá pra cá minha paixão pela tecnologia e suas diversas áreas vem crescendo dia após dia.
+I first got into programming when I was studying Environmental Engineering at the University of Brasília. I decided to pick up my studies again in the second semester of 2022 to get better at it. Since then, my love for technology and all its different areas has been getting stronger every day.
 
